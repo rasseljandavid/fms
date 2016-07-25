@@ -2,9 +2,9 @@
 
 
 [DB_Configuration]
-dbusername = tienda_develop
-dbpassword = "4o8fo7~ScIP2"
-dbdatabase = tienda_finance
+dbusername = username
+dbpassword = password
+dbdatabase = dbname
 dbserver   = localhost
 
 [Operation_Configuration]
